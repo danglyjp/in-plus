@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Original were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/in-plus
+Data file = C:\xampp\htdocs\in-plus\wp-content\plugins\sydney-toolbox/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\in-plus\wp-content\plugins\sydney-toolbox/demo-content/demo-widgets.wie
+Customizer file = C:\xampp\htdocs\in-plus\wp-content\plugins\sydney-toolbox/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Thanh bên : 
+
+Bài viết mới - Recent News - Imported
+Chuyên mục - Categories - Imported
+Lưu trữ - Archives - Imported
+Mây Thẻ - Popular Tags - Imported
+mc4wp_form_widget - Sign up for Newsletter - Site does not support widget
+
+Footer1 : 
+
+Ảnh - No Title - Imported
+Văn bản - No Title - Imported
+
+Footer2 : 
+
+Thanh điều hướng - About Us - Imported
+
+Footer3 : 
+
+Thanh điều hướng - Services - Imported
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Văn bản - Contact - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
